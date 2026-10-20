@@ -133,7 +133,7 @@ function renderSimulator() {
       ['Otimizar processos', 'workflow'],
       ['Validar uma nova ideia', 'lightbulb']
     ];
-    const deadlines = ['O quanto antes', 'Nos próximos 30 dias', 'Nos próximos 3 meses', 'Estou pesquisando'];
+    const deadlines = ['Nos próximos 30 dias', 'Nos próximos 3 meses', 'Estou pesquisando'];
     body +=
       '<h3>O que você quer alcançar?</h3>' +
       '<p class="help">Isso nos ajuda a entender a prioridade do seu projeto.</p>' +
