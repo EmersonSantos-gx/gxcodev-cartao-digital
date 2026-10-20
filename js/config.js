@@ -5,8 +5,8 @@
 // ============================================================================
 const CONFIG = {
   name: 'Gxcodev',
-  phone: '5582981567042',
-  phoneDisplay: '+55 82 98156-7042',
+  phone: '5582981467042',
+  phoneDisplay: '+55 82 98146-7042',
   instagram: 'https://instagram.com/gxcodev.space',
   address: 'R. Álvares Cabral, 71 - Prado, Maceió - AL, 57010-040',
   mapsUrl: 'https://www.google.com/maps/search/?api=1&query=R.%20%C3%81lvares%20Cabral%2C%2071%20-%20Prado%2C%20Macei%C3%B3%20-%20AL%2C%2057010-040',
@@ -16,7 +16,7 @@ const CONFIG = {
 };
 
 const PHOTO = {
-  dark: 'assets/demos/demo-dark-link-in-bio.jpg',
+  dark: 'assets/demos/CelsonLNPRO.png',
   saas: 'assets/demos/demo-saas-landing.jpg',
   finance: 'assets/demos/demo-dashboard-financeiro.jpg',
   gamer: 'assets/demos/demo-ecommerce-gamer.jpg',
@@ -31,7 +31,7 @@ const models = [
     id: 'dark',
     category: 'Mini Site',
     filter: 'mini',
-    name: 'Dark Tech Link-in-Bio',
+    name: 'Mini Site / Consultoria Veicular',
     description: 'Sua marca em um único link. Um cartão digital que conecta conteúdo, serviços e conversas.',
     tags: ['100% Responsivo', 'Tailwind CSS', 'WhatsApp'],
     photo: PHOTO.dark,
